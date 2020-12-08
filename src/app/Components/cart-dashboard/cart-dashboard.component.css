@@ -1,0 +1,11 @@
+.card{
+    width: 1000px;
+    margin-left: 13%;
+}
+.containernew{
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+    height:300px;
+    width:300px;
+}
